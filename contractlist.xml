@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="contractlist.xslt"?>
+<contracts>
+  <contract gender="male">
+    <name>Kamal Hossen</name>
+    <phone>01734453456</phone>
+    <email>kamal@yahoo.com</email>
+    <age>23</age>
+  </contract>
+
+  <contract gender="male">
+    <name>Hasan kamla</name>
+    <phone>01987787654</phone>
+    <email>hasan@gmail.com</email>
+    <age>23</age>
+  </contract>
+
+  <contract gender="male">
+    <name>Roni khan</name>
+    <phone>018776643</phone>
+    <email>fiverr@gmail.com</email>
+    <age>34</age>
+  </contract>
+
+  <contract gender="male">
+    <name>Sumin</name>
+    <phone>0176654567</phone>
+    <email>sumin@hotmail.com</email>
+    <age>12</age>
+  </contract>
+
+  <contract gender="Female">
+    <name>Kanta</name>
+    <phone>01783384848</phone>
+    <email>kn@gmail.com</email>
+    <age>23</age>
+  </contract>
+
+  <contract gender="Female">
+    <name>Rahela</name>
+    <phone>01737373737</phone>
+    <email>ra@gmail.com</email>
+    <age>34</age>
+  </contract>
+
+</contracts>
